@@ -1,0 +1,7 @@
+#175 select p.firstName, p.lastName, a.city, a.state from Person as p left join Address as a on p.personId = a.personId;
+
+#181 select e.name as Employee from Employee e join Employee m on e.managerid=m.id where e.salary>m.salary;
+
+#182 select email from Person group by email having count(email)>1;
+
+#183 select c.name as Customers from Customers c left join Orders o on c.id = o.customerId where o.customerId is null;
