@@ -18,19 +18,13 @@ This repository is intended only for learning and educational purposes, not for 
 
 
 
-\- Strengthen programming fundamentals and logical thinking.
-
-\- Understand algorithms and data structures.
-
-\- Develop independent problem-solving skills.
-
-\- Learn to write clean, readable, and efficient code.
-
-\- Understand time and space complexity.
-
-\- Practice consistently across multiple programming languages.
-
-\- Retain concepts through scheduled revision.
+1. Strengthen programming fundamentals and logical thinking.
+2. Understand algorithms and data structures.
+3. Develop independent problem-solving skills.
+4. Learn to write clean, readable, and efficient code.
+5. Understand time and space complexity.
+6. Practice consistently across multiple programming languages.
+7. Retain concepts through scheduled revision.
 
 
 
